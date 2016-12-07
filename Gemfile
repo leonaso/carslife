@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Ruby version: 2.3.1 (x86_64-linux)
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-
+ruby    '2.3.1'
 # Rails version: 5.0.0.1
 gem 'rails', '>= 5.0.0.1'
 # Use Puma as the app server
